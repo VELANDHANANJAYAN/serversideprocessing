@@ -89,6 +89,12 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </body>
 </html>
 ```
+
+
+
+
+
+
 ## OUTPUT:
 ### Home Page:
 ![HOMEPAGE](/images/homepg.png)
